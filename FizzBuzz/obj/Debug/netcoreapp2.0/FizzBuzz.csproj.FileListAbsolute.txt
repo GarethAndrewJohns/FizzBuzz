@@ -1,0 +1,11 @@
+C:\Users\garet\Documents\Programming Projects\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp2.0\FizzBuzz.deps.json
+C:\Users\garet\Documents\Programming Projects\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp2.0\FizzBuzz.runtimeconfig.json
+C:\Users\garet\Documents\Programming Projects\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp2.0\FizzBuzz.runtimeconfig.dev.json
+C:\Users\garet\Documents\Programming Projects\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp2.0\FizzBuzz.dll
+C:\Users\garet\Documents\Programming Projects\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp2.0\FizzBuzz.pdb
+C:\Users\garet\Documents\Programming Projects\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp2.0\FizzBuzz.csprojResolveAssemblyReference.cache
+C:\Users\garet\Documents\Programming Projects\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp2.0\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\garet\Documents\Programming Projects\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp2.0\FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\garet\Documents\Programming Projects\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp2.0\FizzBuzz.AssemblyInfo.cs
+C:\Users\garet\Documents\Programming Projects\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp2.0\FizzBuzz.dll
+C:\Users\garet\Documents\Programming Projects\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp2.0\FizzBuzz.pdb
